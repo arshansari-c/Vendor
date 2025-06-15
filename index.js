@@ -19,7 +19,7 @@ app.use(fileUpload({
 
 
 app.use(cors({
-  origin: '*',
+  origin: 'https://gregarious-sunburst-69aeb6.netlify.app',
   credentials: true
 }));
 
